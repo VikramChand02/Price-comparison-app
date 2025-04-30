@@ -62,5 +62,5 @@ Deploy your project effortlessly using platforms like **Netlify** or **Vercel**.
 You can configure a custom domain for your deployment using Netlify or Vercel. Check their documentation for step-by-step instructions.
 
 ---
-🚀 **Crafted with precision by B. Bharath Kumar**
+**Crafted with precision by B. Bharath Kumar**
 
